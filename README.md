@@ -20,9 +20,7 @@ To run this notebook, you will need to have Python installed, along with the fol
 - `seaborn`
 
 You can install these libraries using pip:
-
-```bash
-pip install pandas matplotlib seaborn
+`pip install pandas matplotlib seaborn`
 
 ## Usage
 
@@ -45,7 +43,7 @@ The notebook generates a variety of visualizations to explore the Iris dataset, 
 - Distribution plots to understand the spread of each feature.
 - Scatter plots to observe correlations.
 
-## Goal
+## Conclusion
 
 This EDA provides a comprehensive overview of the Iris dataset, highlighting important relationships and patterns within the data. These insights can be used as a foundation for building more complex machine learning models.
 
